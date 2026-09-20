@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Juan Esteban Beron Zapata — Aerospace & Autonomous Systems portfolio." />
+  <title>Juan Esteban Beron Zapata</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- HERO: replace assets/media/hero.mp4 and assets/images/hero-poster.svg -->
+  <header class="hero" id="home">
+    <video class="hero__video" autoplay muted loop playsinline poster="assets/images/hero-poster.svg">
+      <source src="assets/media/hero.mp4" type="video/mp4" />
+    </video>
+    <div class="hero__overlay"></div>
+
+    <div class="hero__identity">
+      <h1>Juan Esteban Beron Zapata</h1>
+      <p>Aerospace &amp; Autonomous Systems Engineer</p>
+    </div>
+
+    <button class="menu-toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+
+    <div class="hero__center-copy">
+      <p>SAFE &amp; RESILIENT AUTONOMY</p>
+      <span>for aerospace systems operating in dynamic, degraded and uncertain environments</span>
+    </div>
+
+    <a class="hero__scroll" href="#about" aria-label="Scroll to About">
+      <span>SCROLL</span><div class="hero__scroll-line"></div>
+    </a>
+  </header>
+
+  <aside class="menu-panel" id="menuPanel" aria-hidden="true">
+    <button class="menu-close" id="menuClose" aria-label="Close menu">×</button>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#explore">Explore</a>
+      <a href="#institutions">Institutions</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </aside>
+  <div class="menu-backdrop" id="menuBackdrop"></div>
+
+  <main>
+    <section class="about shell" id="about">
+      <div class="section-kicker">ABOUT ME</div>
+      <div class="about__grid">
+        <div class="about__copy">
+          <h2>Building aerospace systems that remain capable when conditions stop being ideal.</h2>
+          <p>Aeronautical Engineering graduate and incoming Aerospace Engineering M.S. student focused on safety-critical and resilient autonomy, multi-robot systems, communication-aware robotics, advanced control, and simulation-to-hardware validation.</p>
+          <p>My research interests center on autonomous aerospace vehicles capable of safely exploring degraded, dynamic, uncertain, and communication-constrained environments.</p>
+          <div class="about__quick-links">
+            <a href="assets/documents/Juan_Beron_CV.pdf" target="_blank" rel="noopener">View CV</a>
+            <a href="#contact">Contact</a>
+          </div>
+        </div>
+
+        <figure class="about__portrait">
+          <!-- REPLACE assets/images/profile.svg with your photo -->
+          <img src="assets/images/profile.svg" alt="Juan Esteban Beron Zapata" />
+          <figcaption>
+            <strong>Juan Esteban Beron Zapata</strong>
+            <span>Incoming M.S. — Aerospace Engineering</span>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="explore shell" id="explore">
+      <div class="section-kicker">EXPLORE</div>
+      <div class="tile-grid">
+        <a class="tile tile--research" href="#"><span class="tile__number">01</span><div class="tile__content"><h3>Research</h3><p>Caltech · KAUST · NCU · UdeA</p></div><span class="tile__arrow">↗</span></a>
+        <a class="tile tile--projects" href="#"><span class="tile__number">02</span><div class="tile__content"><h3>Projects</h3><p>ATMOS · SWARMSYM · VOLTA · DBF</p></div><span class="tile__arrow">↗</span></a>
+        <a class="tile tile--publications" href="#"><span class="tile__number">03</span><div class="tile__content"><h3>Publications</h3><p>Papers · Demos · Posters · Research in progress</p></div><span class="tile__arrow">↗</span></a>
+        <a class="tile tile--awards" href="#"><span class="tile__number">04</span><div class="tile__content"><h3>Certifications &amp; Awards</h3><p>Fellowships · Scholarships · Exams</p></div><span class="tile__arrow">↗</span></a>
+        <a class="tile tile--contact" href="#contact"><span class="tile__number">05</span><div class="tile__content"><h3>CV &amp; Contact</h3><p>Curriculum Vitae · Email · Professional links</p></div><span class="tile__arrow">↗</span></a>
+        <a class="tile tile--interests" href="#"><span class="tile__number">06</span><div class="tile__content"><h3>Interests &amp; Hobbies</h3><p>Aviation · Flying · Exploration · Outdoors</p></div><span class="tile__arrow">↗</span></a>
+      </div>
+    </section>
+
+    <section class="institutions" id="institutions">
+      <div class="shell institutions__header">
+        <div class="section-kicker">INSTITUTIONS &amp; COLLABORATIONS</div>
+        <p>Research, education, and engineering environments that have shaped my work.</p>
+      </div>
+      <div class="logo-marquee" aria-label="Institutions">
+        <div class="logo-track">
+          <img src="assets/logos/caltech.svg" alt="Caltech" />
+          <img src="assets/logos/kaust.svg" alt="KAUST" />
+          <img src="assets/logos/ncu.svg" alt="National Central University" />
+          <img src="assets/logos/udea.svg" alt="Universidad de Antioquia" />
+          <img src="assets/logos/upb.svg" alt="Universidad Pontificia Bolivariana" />
+          <img src="assets/logos/utaustin.svg" alt="UT Austin" />
+          <img src="assets/logos/caltech.svg" alt="" aria-hidden="true" />
+          <img src="assets/logos/kaust.svg" alt="" aria-hidden="true" />
+          <img src="assets/logos/ncu.svg" alt="" aria-hidden="true" />
+          <img src="assets/logos/udea.svg" alt="" aria-hidden="true" />
+          <img src="assets/logos/upb.svg" alt="" aria-hidden="true" />
+          <img src="assets/logos/utaustin.svg" alt="" aria-hidden="true" />
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer shell" id="contact">
+    <div><span class="section-kicker">CONTACT</span><h2>Let’s connect.</h2></div>
+    <div class="footer__links">
+      <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://scholar.google.com/YOUR_PROFILE" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://orcid.org/YOUR_ORCID" target="_blank" rel="noopener">ORCID</a>
+      <a href="assets/documents/Juan_Beron_CV.pdf" target="_blank" rel="noopener">CV</a>
+      <a href="mailto:juan.beron@upb.edu.co">Email</a>
+    </div>
+    <div class="footer__bottom"><span>© <span id="year"></span> Juan Esteban Beron Zapata</span><a href="#home">Back to top ↑</a></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
