@@ -1,22 +1,20 @@
-# Juan Beron Portfolio V4
+# Juan Beron Portfolio V5
 
-This version integrates the user-provided banner, Caltech SURF presentation resources, project documentation, certificates and current CV.
+A rich GitHub Pages portfolio built from the supplied CV, project portfolio, research reports, Caltech SURF presentation / mathematical implementation package, KAUST manuscript draft, NCU internship reports, photographs and short project videos.
 
-## Important content policy in this build
-- PDF/portfolio pages are **not** pasted into project descriptions as screenshots.
-- Individual source images/plots are extracted and used next to rewritten technical explanations.
-- Caltech theory includes MathJax-rendered equations.
-- Project/research videos are short selected clips extracted from the supplied presentation; the homepage banner is the existing user-edited montage.
-- Only **two manuscripts in preparation** are listed under Publications: Caltech and KAUST.
-- Draft manuscripts are **not** counted as outputs and are not shipped as public downloadable papers.
+## Public-safety choices
+- Draft manuscripts are described only as **manuscripts in preparation** and are not shipped as public PDFs.
+- IELTS and Saber Pro source PDFs are not included because they contain private identifiers. Only score summaries are rendered in HTML.
+- TEEP/IIPP certificates are included because they were already part of the portfolio bundle and are intended as professional evidence.
 
 ## Main pages
-`index.html`, `research.html`, `projects.html`, `publications.html`, `awards.html`, `contact.html`, `interests.html`
+- `index.html`
+- `research.html`
+- `projects.html`
+- `publications.html`
+- `awards.html`
+- `contact.html`
+- `interests.html`
 
 ## GitHub Pages
-Copy the contents of this folder into the root of `kosmicplane.github.io`, then commit and push.
-
-## Edit later
-- Add LinkedIn / Scholar / ORCID only when you want them public.
-- Replace `#ADD-ID` values in `awards.html` with exam/award IDs if desired.
-- All media is under `assets/`.
+Upload the **contents** of this directory to the root of `kosmicplane.github.io`.

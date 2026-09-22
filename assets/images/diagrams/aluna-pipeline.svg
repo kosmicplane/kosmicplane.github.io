@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="500" viewBox="0 0 1420 500">
+<rect width="100%" height="100%" fill="#0d1116"/>
+<text x="55" y="55" fill="#f3f5f7" font-family="Arial" font-size="28" font-weight="700">ALUNA atmospheric-probe analysis chain</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#8fa1b3"/></marker></defs>
+<rect x="70" y="165" width="220" height="140" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="88" y="199" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Flight Sensors</text>
+<text x="88" y="227" fill="#98a6b4" font-family="Arial" font-size="14">IMU + GPS + multi-Pitot pressure</text>
+<text x="88" y="248" fill="#98a6b4" font-family="Arial" font-size="14">array</text>
+<rect x="370" y="165" width="220" height="140" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="388" y="199" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Calibration</text>
+<text x="388" y="227" fill="#98a6b4" font-family="Arial" font-size="14">Wind-tunnel calibration,</text>
+<text x="388" y="248" fill="#98a6b4" font-family="Arial" font-size="14">filtering, directional response</text>
+<rect x="670" y="165" width="220" height="140" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="688" y="199" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Descent Model</text>
+<text x="688" y="227" fill="#98a6b4" font-family="Arial" font-size="14">Gravity, drag, density variation,</text>
+<text x="688" y="248" fill="#98a6b4" font-family="Arial" font-size="14">attitude and stability</text>
+<rect x="970" y="165" width="220" height="140" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="988" y="199" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Reconstruction</text>
+<text x="988" y="227" fill="#98a6b4" font-family="Arial" font-size="14">Airspeed + attitude + trajectory</text>
+<text x="988" y="248" fill="#98a6b4" font-family="Arial" font-size="14">estimation</text>
+<rect x="1240" y="165" width="130" height="140" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="1258" y="199" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Validation</text>
+<text x="1258" y="227" fill="#98a6b4" font-family="Arial" font-size="14">CFD + flight-data comparison</text>
+<path d="M290 235.0 C335 235.0, 325 235.0, 370 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="330.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">raw data</text>
+<path d="M590 235.0 C635 235.0, 625 235.0, 670 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="630.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">calibrated sensing</text>
+<path d="M890 235.0 C935 235.0, 925 235.0, 970 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="930.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">physics constraints</text>
+<path d="M1190 235.0 C1235 235.0, 1195 235.0, 1240 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="1215.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">compare</text>
+</svg>

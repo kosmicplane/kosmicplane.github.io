@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="470" viewBox="0 0 1320 470">
+<rect width="100%" height="100%" fill="#0d1116"/>
+<text x="55" y="55" fill="#f3f5f7" font-family="Arial" font-size="28" font-weight="700">Urban UTM proposal — functional pillars</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#8fa1b3"/></marker></defs>
+<rect x="80" y="155" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="98" y="189" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Remote ID</text>
+<text x="98" y="217" fill="#98a6b4" font-family="Arial" font-size="14">Vehicle identity, state and</text>
+<text x="98" y="238" fill="#98a6b4" font-family="Arial" font-size="14">operator traceability</text>
+<rect x="390" y="155" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="408" y="189" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Geofencing</text>
+<text x="408" y="217" fill="#98a6b4" font-family="Arial" font-size="14">Static and dynamic airspace</text>
+<text x="408" y="238" fill="#98a6b4" font-family="Arial" font-size="14">constraints</text>
+<rect x="700" y="155" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="718" y="189" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Strategic Deconfliction</text>
+<text x="718" y="217" fill="#98a6b4" font-family="Arial" font-size="14">Pre-flight route/time separation</text>
+<text x="718" y="238" fill="#98a6b4" font-family="Arial" font-size="14">and conflict resolution</text>
+<rect x="1010" y="155" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="1028" y="189" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Acceptance Tests</text>
+<text x="1028" y="217" fill="#98a6b4" font-family="Arial" font-size="14">Scenario-based validation and</text>
+<text x="1028" y="238" fill="#98a6b4" font-family="Arial" font-size="14">safety criteria</text>
+<path d="M310 220.0 C355 220.0, 345 220.0, 390 220.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="350.0" y="212.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">airspace awareness</text>
+<path d="M620 220.0 C665 220.0, 655 220.0, 700 220.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="660.0" y="212.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">constraint-aware planning</text>
+<path d="M930 220.0 C975 220.0, 965 220.0, 1010 220.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="970.0" y="212.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">verification</text>
+</svg>

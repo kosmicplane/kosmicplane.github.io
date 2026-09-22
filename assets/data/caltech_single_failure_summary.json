@@ -1,0 +1,49 @@
+{
+  "variant": "single_failure",
+  "terminal_status": "landed",
+  "landed": true,
+  "hold_reason": null,
+  "initial_target": "LZ0",
+  "final_target": "LZ2",
+  "target_failed": true,
+  "failed_targets": [
+    "LZ0"
+  ],
+  "failure_count": 1,
+  "target_switched": true,
+  "switch_count": 1,
+  "scheduled_failure_count": 1,
+  "processed_failure_events": 1,
+  "remaining_available_targets": [
+    "LZ1",
+    "LZ2",
+    "LZ3"
+  ],
+  "steps": 493,
+  "duration_s": 29.58,
+  "path_length_m": 41.29638524500533,
+  "final_target_error_m": 0.09976970067173403,
+  "final_speed_mps": 0.3284543631012843,
+  "minimum_obstacle_clearance_m": 0.875,
+  "minimum_poisson_h": 0.07737493769762765,
+  "minimum_hocbf_residual": -3.5426273026217814e-11,
+  "minimum_active_clf_residual": 1.633006084084228e-07,
+  "minimum_contingency_pivot": 2993.807483266004,
+  "mean_intervention_norm": 0.0348141663239554,
+  "maximum_intervention_norm": 0.4080291381624291,
+  "maximum_speed_mps": 1.9237775478069319,
+  "mean_solver_time_ms": 0.09953381743136383,
+  "p95_solver_time_ms": 0.3554688002623152,
+  "collision_guard_backtracks": 0,
+  "final_state": [
+    16.440844767612617,
+    20.44987565398142,
+    1.2627869539755807,
+    -0.2438252045496236,
+    0.009654477244794592,
+    -0.21985979472321504
+  ],
+  "forcing_method": "guidance",
+  "poisson_solver": "conjugate_gradient",
+  "poisson_control_scale": 1.7837081652327893
+}

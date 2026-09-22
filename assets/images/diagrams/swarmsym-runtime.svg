@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="500" viewBox="0 0 1420 500">
+<rect width="100%" height="100%" fill="#0d1116"/>
+<text x="55" y="55" fill="#f3f5f7" font-family="Arial" font-size="28" font-weight="700">SWARMSYM runtime composition</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#8fa1b3"/></marker></defs>
+<rect x="45" y="160" width="220" height="150" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="63" y="194" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Mission Control</text>
+<text x="63" y="222" fill="#98a6b4" font-family="Arial" font-size="14">Mission JSON, topology mode,</text>
+<text x="63" y="243" fill="#98a6b4" font-family="Arial" font-size="14">failures, experiments</text>
+<rect x="335" y="160" width="200" height="150" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="353" y="194" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">ROS 2</text>
+<text x="353" y="222" fill="#98a6b4" font-family="Arial" font-size="14">Swarm state, coordination,</text>
+<text x="353" y="243" fill="#98a6b4" font-family="Arial" font-size="14">telemetry, event bus</text>
+<rect x="610" y="75" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="628" y="109" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Isaac Sim / PX4</text>
+<text x="628" y="137" fill="#98a6b4" font-family="Arial" font-size="14">Embodied UAV motion, physics,</text>
+<text x="628" y="158" fill="#98a6b4" font-family="Arial" font-size="14">autopilot-accurate control</text>
+<rect x="610" y="260" width="230" height="130" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="628" y="294" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Sionna</text>
+<text x="628" y="322" fill="#98a6b4" font-family="Arial" font-size="14">Path loss, SNR, capacity, delay,</text>
+<text x="628" y="343" fill="#98a6b4" font-family="Arial" font-size="14">feasibility margins</text>
+<rect x="930" y="160" width="220" height="150" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="948" y="194" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">SNaaS Runtime</text>
+<text x="948" y="222" fill="#98a6b4" font-family="Arial" font-size="14">Link gate, packet progress,</text>
+<text x="948" y="243" fill="#98a6b4" font-family="Arial" font-size="14">topology recomputation, recovery</text>
+<rect x="1210" y="160" width="150" height="150" rx="12" fill="#151b22" stroke="#41505f" stroke-width="2"/>
+<text x="1228" y="194" fill="#f3f5f7" font-family="Arial" font-size="20" font-weight="700">Evidence</text>
+<text x="1228" y="222" fill="#98a6b4" font-family="Arial" font-size="14">CSV/JSONL logs, dashboards,</text>
+<text x="1228" y="243" fill="#98a6b4" font-family="Arial" font-size="14">replay</text>
+<path d="M265 235.0 C310 235.0, 290 235.0, 335 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="300.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">configure</text>
+<path d="M535 235.0 C580 235.0, 565 140.0, 610 140.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="572.5" y="179.5" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">poses</text>
+<path d="M535 235.0 C580 235.0, 565 325.0, 610 325.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="572.5" y="272.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">links</text>
+<path d="M840 140.0 C885 140.0, 885 235.0, 930 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="885.0" y="179.5" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">mobility</text>
+<path d="M840 325.0 C885 325.0, 885 235.0, 930 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="885.0" y="272.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">metrics</text>
+<path d="M1150 235.0 C1195 235.0, 1165 235.0, 1210 235.0" fill="none" stroke="#8fa1b3" stroke-width="2" marker-end="url(#a)"/>
+<text x="1180.0" y="227.0" text-anchor="middle" fill="#697989" font-family="Arial" font-size="12">record</text>
+</svg>
