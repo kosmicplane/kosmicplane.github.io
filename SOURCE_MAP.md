@@ -1,11 +1,9 @@
-# Source map
+# Source map — V4
 
-This site was populated from the user-provided `Projects documentation.zip` and banner MP4.
-
-- Caltech theory and figures: `poisson_cbf_contingency_explanation.pdf`, `26_DroneLanding-1.pdf`, `Multi_Certificate_Safety_and_Contingency_Planning_for_Mars_Analog_Helicopter.pdf`, and `Mathematical_Implementation_Notes.zip`.
-- KAUST / SWARMSYM: `A_High_Fidelity_Simulator_for_Swarm_Network_as_a_Service.pdf` and `DEMO__A_High_Fidelity_Simulator_for_Swarm_Network_as_a_Service.pdf`.
-- NCU TEEP/IIPP: supplied TEEP/IIPP reports, certificates, offer letter, and `PROJECT_PORTFOLIO.pdf`.
-- UdeA, VOLTA, DBF, agricultural-aircraft and course-project visuals/text: `PROJECT_PORTFOLIO.pdf`.
-- Banner: user-provided MP4, web-optimized to 1280x720, 30 fps, H.264, no audio.
-
-Technical text in the website is intentionally written to preserve the scope stated in the supplied documents. Draft manuscripts are labeled as drafts/manuscripts rather than accepted publications.
+- **Banner:** user-provided `Untitled design.mp4` (web-optimized copy already used by the site).
+- **Caltech research theory:** user-provided SURF presentation and Caltech technical documents. Individual plots/photos were extracted from the PPTX, while equations are rendered as HTML/MathJax rather than copied as slide screenshots.
+- **Caltech project clips:** selected short clips extracted from the embedded videos in the SURF presentation.
+- **KAUST / SWARMSYM:** supplied KAUST framework/demo documents; architecture, topology and recovery figures are used as individual technical assets.
+- **NCU, UdeA, VOLTA, DBF, agricultural-aircraft and academic projects:** text derived from the supplied project documentation; individual embedded figures/photos extracted from `PROJECT_PORTFOLIO.pdf`.
+- **Awards:** TEEP/IIPP certificates are linked from supplied certificate PDFs. Other award values follow the CV/project information supplied by the user.
+- **Publications:** exactly two works are listed, both explicitly labeled *Manuscript in preparation* (Caltech and KAUST).

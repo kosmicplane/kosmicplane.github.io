@@ -1,32 +1,22 @@
-# Juan Beron Portfolio V3
+# Juan Beron Portfolio V4
 
-This version integrates the uploaded project documentation and banner video.
+This version integrates the user-provided banner, Caltech SURF presentation resources, project documentation, certificates and current CV.
 
-## What is already integrated
-- Optimized autoplay banner video: `assets/media/hero.mp4` (720p/30 fps, ~5.6 MB).
-- Poster frame: `assets/images/hero-poster.jpg`.
-- Profile image from the current CV assets.
-- Caltech technical figures from the supplied Mathematical Implementation Notes.
-- KAUST/SWARMSYM architecture, topology, and failure-recovery figures extracted from the supplied demo manuscript.
-- NCU/UdeA/VOLTA/academic project evidence from the supplied `PROJECT_PORTFOLIO.pdf`.
-- NCU TEEP/IIPP certificates, offer letter, reports, Caltech theory/drafts, and KAUST manuscripts under `assets/documents/`.
+## Important content policy in this build
+- PDF/portfolio pages are **not** pasted into project descriptions as screenshots.
+- Individual source images/plots are extracted and used next to rewritten technical explanations.
+- Caltech theory includes MathJax-rendered equations.
+- Project/research videos are short selected clips extracted from the supplied presentation; the homepage banner is the existing user-edited montage.
+- Only **two manuscripts in preparation** are listed under Publications: Caltech and KAUST.
+- Draft manuscripts are **not** counted as outputs and are not shipped as public downloadable papers.
 
 ## Main pages
-- `index.html` — home
-- `research.html` — detailed research records + modals
-- `projects.html` — detailed project records + modals
-- `publications.html` — manuscripts/demos, with status labels
-- `awards.html` — awards/funding/certifications; real NCU certificates already linked
-- `contact.html` — CV/contact
-- `interests.html` — personal interests
+`index.html`, `research.html`, `projects.html`, `publications.html`, `awards.html`, `contact.html`, `interests.html`
 
-## Still replace manually
-Search the repository for `YOUR_`, `REPLACE_`, and `#XXXXXXX`.
-These include GitHub, LinkedIn, Scholar, ORCID, SWARMSYM repo URL, and exam/award IDs.
+## GitHub Pages
+Copy the contents of this folder into the root of `kosmicplane.github.io`, then commit and push.
 
-## GitHub Pages upload
-Upload the CONTENTS of this folder to the root of `YOUR_USERNAME.github.io`.
-`index.html` must remain at repository root.
-
-## Note on technical claims
-The research pages intentionally distinguish validated measurements from ongoing theoretical work. The NCU section also distinguishes implemented sensing/networking infrastructure from EKF/UKF/VIO/SLAM readiness described in the supplied reports.
+## Edit later
+- Add LinkedIn / Scholar / ORCID only when you want them public.
+- Replace `#ADD-ID` values in `awards.html` with exam/award IDs if desired.
+- All media is under `assets/`.

@@ -1,2 +1,0 @@
-Main CV: Juan_Beron_CV.pdf
-Award/certificate PDFs: replace the REPLACE_ filenames used in awards.html.
