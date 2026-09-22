@@ -1,29 +1,26 @@
-# Juan Beron Portfolio V6
+# Juan Beron Professional Portfolio — V8
 
-Evidence-rich static portfolio for GitHub Pages.
+Final refinement built from the supplied CV, reports, presentations, project documentation, images and operating videos.
 
-## Main changes in V6
-- Uses the new user-supplied banner video as `assets/media/hero.mp4`.
-- Removes “Incoming” language from the general website identity.
-- Keeps ATMOS and the UdeA/ALUNA atmospheric probe strictly separate.
-- Expands Caltech, KAUST, NCU, UdeA and Daetech research records with theory, process, equations, measured evidence and galleries.
-- Expands every project from the supplied portfolio into its own record, including the individual course/lab builds.
-- Publishes the award / score-report documents the user explicitly requested to make available.
-- Lists only two manuscripts in preparation; they are not counted as completed outputs.
+## Major revisions
+- Home identity refined to **Safe & Resilient Aerospace Autonomy** with sensing/perception, safety-critical control, adaptive mission response, robotics and simulation-to-hardware validation.
+- About section emphasizes mission response under changing environments / degraded measurements and adds a human exploration/science dimension.
+- Personal general-aviation portrait used for the profile; personal images replace generic Awards / Contact / Interests backgrounds.
+- Institution logos display in full color on a light research-environment strip.
+- Caltech operating videos are placed next to the theory/evidence they support rather than in a generic end gallery.
+- ATMOS is kept strictly separate from the UdeA/ALUNA atmospheric probe.
+- ATMOS page uses unique ATMOS evidence only and links the official DISCOWER page plus Roque et al. ATMOS paper.
+- KAUST/SWARMSYM includes a more explicit relay-service model, an additional runtime video, repository link and demo link.
+- NCU removes weak timing iteration plots from the visual gallery and uses hardware, point-cloud, IIPP and team evidence instead.
+- Daetech layout is converted to a non-overlapping responsive process grid.
+- FIRST LEGO League includes the newly supplied EV3 operating video.
+- Interests now cover flight training, travel/exploration and fitness/swimming; no unrelated DBF/rocket imagery is used as aviation-hobby evidence.
 
-## GitHub Pages
-Upload the contents of this folder to the root of `kosmicplane.github.io`.
+## External links added
+- ATMOS official: https://atmos.discower.io/
+- ATMOS paper: https://arxiv.org/abs/2501.16973
+- SWARMSYM repository: https://anonymous.4open.science/r/SNAAS_SYM-E813
+- SWARMSYM demo: https://www.youtube.com/watch?v=GT1VKqX3KDI
 
-## Important
-Draft research manuscripts are not included in the public bundle. The site presents their underlying research evidence instead.
-
-
-## V7 precision pass
-- Home identity changed to `Graduate Aerospace Engineering student`; promotional highlight counters removed.
-- Projects page removes Daetech and UTM/Air-Force proposal, and removes the Pilatus PC-12 mock-up.
-- Glider project is presented only as the hand-launched glider with its one supported still image and flight video.
-- Nozzle project uses only the operating video as visual evidence.
-- High-lift project uses only the supported profile/configuration image.
-- CFD remains only because a project-specific CFD image exists in the supplied portfolio.
-- Operational videos are emphasized in ATMOS, SWARMSYM, NCU, Caltech, ALUNA/Volta and course builds wherever source media exists.
-- Added explicit validation scope and theoretical/reference framing to avoid overstating simulation, conceptual design or short experimental datasets.
+## One source not present
+A Caltech SURF offer-letter file was not present among the mounted uploads when V8 was assembled, so no fabricated or broken offer-letter link was added. The documented SURF award value remains shown from the supplied CV/materials.

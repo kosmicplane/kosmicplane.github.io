@@ -17,3 +17,11 @@ Only supported claims were retained. Where a source described future readiness (
 
 ## V7 evidence policy
 The website now prioritizes operating videos when supplied. Course projects use only media that can be attributed to the specific project. Unsupported duplicate images were removed from the glider, nozzle and high-lift records. Daetech/UTM and Pilatus were removed from the Projects page at the user's request; Daetech remains in Research/Experience because it is employment/research history. Academic claims distinguish analytical design, simulation evidence, laboratory validation and flight evidence.
+
+
+## V8 refinements
+- Personal aviation/travel photographs: user uploads dated 2026-09-22.
+- FIRST LEGO League operating video: user upload `WhatsApp Video 2026-09-22 at 10.24.25 AM.mp4`.
+- NCU IIPP/team evidence: images extracted from the supplied `more_resources.zip`.
+- ATMOS citation/link: official DISCOWER ATMOS documentation and Pedro Roque et al., *Towards Open-Source and Modular Space Systems with ATMOS* (arXiv:2501.16973 / IEEE Transactions on Field Robotics 2025).
+- SWARMSYM repository/demo URLs: hyperlink annotations extracted from the supplied KAUST demo manuscript PDF.
