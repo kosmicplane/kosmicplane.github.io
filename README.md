@@ -16,3 +16,14 @@ Upload the contents of this folder to the root of `kosmicplane.github.io`.
 
 ## Important
 Draft research manuscripts are not included in the public bundle. The site presents their underlying research evidence instead.
+
+
+## V7 precision pass
+- Home identity changed to `Graduate Aerospace Engineering student`; promotional highlight counters removed.
+- Projects page removes Daetech and UTM/Air-Force proposal, and removes the Pilatus PC-12 mock-up.
+- Glider project is presented only as the hand-launched glider with its one supported still image and flight video.
+- Nozzle project uses only the operating video as visual evidence.
+- High-lift project uses only the supported profile/configuration image.
+- CFD remains only because a project-specific CFD image exists in the supplied portfolio.
+- Operational videos are emphasized in ATMOS, SWARMSYM, NCU, Caltech, ALUNA/Volta and course builds wherever source media exists.
+- Added explicit validation scope and theoretical/reference framing to avoid overstating simulation, conceptual design or short experimental datasets.

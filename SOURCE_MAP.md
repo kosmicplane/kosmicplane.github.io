@@ -13,3 +13,7 @@ The website was rebuilt from the supplied evidence rather than by embedding full
 - Awards/exams: CV context plus supplied official Saber Pro and IELTS reports and NCU certificates.
 
 Only supported claims were retained. Where a source described future readiness (e.g. NCU EKF/VIO/SLAM), the page labels it as a roadmap rather than a completed result.
+
+
+## V7 evidence policy
+The website now prioritizes operating videos when supplied. Course projects use only media that can be attributed to the specific project. Unsupported duplicate images were removed from the glider, nozzle and high-lift records. Daetech/UTM and Pilatus were removed from the Projects page at the user's request; Daetech remains in Research/Experience because it is employment/research history. Academic claims distinguish analytical design, simulation evidence, laboratory validation and flight evidence.
