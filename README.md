@@ -1,20 +1,18 @@
-# Juan Beron Portfolio V5
+# Juan Beron Portfolio V6
 
-A rich GitHub Pages portfolio built from the supplied CV, project portfolio, research reports, Caltech SURF presentation / mathematical implementation package, KAUST manuscript draft, NCU internship reports, photographs and short project videos.
+Evidence-rich static portfolio for GitHub Pages.
 
-## Public-safety choices
-- Draft manuscripts are described only as **manuscripts in preparation** and are not shipped as public PDFs.
-- IELTS and Saber Pro source PDFs are not included because they contain private identifiers. Only score summaries are rendered in HTML.
-- TEEP/IIPP certificates are included because they were already part of the portfolio bundle and are intended as professional evidence.
-
-## Main pages
-- `index.html`
-- `research.html`
-- `projects.html`
-- `publications.html`
-- `awards.html`
-- `contact.html`
-- `interests.html`
+## Main changes in V6
+- Uses the new user-supplied banner video as `assets/media/hero.mp4`.
+- Removes “Incoming” language from the general website identity.
+- Keeps ATMOS and the UdeA/ALUNA atmospheric probe strictly separate.
+- Expands Caltech, KAUST, NCU, UdeA and Daetech research records with theory, process, equations, measured evidence and galleries.
+- Expands every project from the supplied portfolio into its own record, including the individual course/lab builds.
+- Publishes the award / score-report documents the user explicitly requested to make available.
+- Lists only two manuscripts in preparation; they are not counted as completed outputs.
 
 ## GitHub Pages
-Upload the **contents** of this directory to the root of `kosmicplane.github.io`.
+Upload the contents of this folder to the root of `kosmicplane.github.io`.
+
+## Important
+Draft research manuscripts are not included in the public bundle. The site presents their underlying research evidence instead.

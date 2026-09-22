@@ -1,10 +1,15 @@
-# Source map — public portfolio V5
+# Source map — V6
 
-- **Caltech / AMBER:** SURF presentation, `26_DroneLanding`, Poisson/CBF/contingency explanation, mathematical implementation notes and benchmark JSON.
-- **KAUST / NetLab:** High-Fidelity Simulator for Swarm Network-as-a-Service manuscript / demo materials and supplied simulation media.
-- **NCU / SenDiMoniProg:** TEEP/IIPP reports, project portfolio, certificates and supplied lab media.
-- **UdeA / VOLTA / Daetech / DBF / academic builds / FLL:** project portfolio plus supplied photographs and clips.
-- **Saber Pro:** official uploaded report — global 186/300, national percentile 94.
-- **IELTS Academic:** official uploaded One Skill Retake report — overall 7.0, CEFR C1, L/R/S 7.5 and W 6.0.
+The website was rebuilt from the supplied evidence rather than by embedding full pages of the portfolio.
 
-No complete PDF portfolio pages are used as project illustrations. The site uses individual figures, photographs, rendered equations, custom diagrams and short clips.
+- Caltech / AMBER: `Portrait.pptx`, Caltech PDFs, mathematical implementation notes, solver benchmark JSON and hardware/simulation media.
+- ATMOS: ATMOS-specific photos/video from the Caltech presentation and media. No UdeA / ALUNA imagery is used as ATMOS evidence.
+- KAUST / SWARMSYM: transactions-style manuscript, demo manuscript, Sionna/Isaac/ROS/PX4 figures and simulation clips.
+- NCU: TEEP/IIPP reports, project portfolio, certificates, network plots, embedded hardware, depth/point-cloud media.
+- UdeA / ALUNA: project portfolio, multi-Pitot CAD, wind-tunnel evidence, CFD imagery, launch/recovery evidence.
+- VOLTA: project portfolio, competition/launch images and Spaceport America Cup links.
+- Daetech / UTM: project portfolio, corridor map and UTM repository.
+- DBF, SHOTS, Canard, Nozzle, Pilatus ECS, High-Lift Wing, High-Speed CFD, FIRST LEGO League: extracted individual figures and text from the project portfolio.
+- Awards/exams: CV context plus supplied official Saber Pro and IELTS reports and NCU certificates.
+
+Only supported claims were retained. Where a source described future readiness (e.g. NCU EKF/VIO/SLAM), the page labels it as a roadmap rather than a completed result.
